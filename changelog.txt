@@ -1,0 +1,63 @@
+v.1.0 (04 Maret 2018)
+- rilis
+
+v.1.1 - v.1.2 (06 Maret 2018):
+
+- Perbaikan Warna Icon Media Sosial tidak bisa diganti melalui desainer tema blogger
+- Penambahan Widget slot iklan otomatis di tengah postingan dan di bawah postingan
+
+v.1.3 - v.1.5 (06 Maret 2018)
+- Perbaikan bug tombol menu navigasi jika diakses melalui perangkat mobile
+- Mengganti warna background judul Featured Post
+- Memperbaiki tampilan widget Populer Posts yang kurang rapi
+- Perbaikan transisi menu navigasi dan form pencarian yang terlalu lambat
+- Perbaikan menu navigasi yang terkadang tidak berfungsi
+- Perbaikan desain widget
+- dan beberapa perbaikan kecil
+
+v.1.6 (10 Maret 2018)
+- Perbaikan Bug CSS Widget Label List
+- Perbaikan CSS strong dan bold yang tidak tampil tebal
+
+v.1.7 (17 Maret 2018)
+- Pengoptimalan skor Google PageSpeed
+- Perbaikan tampilan widget Featured Post
+- Perbaikan tampilan widget related posts
+- Penambahan widget slot iklan di atas artikel/di bawah judul.
+- Perbaikan desain
+
+v.1.8 (23 Maret 2018)
+- Perbaikan Widget Sticky yang tidak berfungsi dengan sempurna
+- Tampilan featured post dikembalikan seperti versi pertama
+- Perubahan tampilan related post
+- Perbaikan desain
+  
+v.1.9 (27 Maret 2018)
+- Penambahan Widget "Baca Juga" di tengah artikel
+- Penambahan Custom Contact Form di Halaman Statis
+- Perbaikan desain
+- Update panduan tambahan
+
+v.2.0 (29 Maret 2018)
+- Perbaikan iklan AdSense di tengah artikel tidak mau muncul
+- Perbaikan bug widget "Baca Juga" di tengah artikel yang kadang-kadang cuma muncul kotak kosong
+
+v.2.1 (30 Maret 2018)
+- Perbaikan iklan AdSense di tengah artikel menumpuk pada artikel yang pendek
+- Perbaikan iklan AdSense menumpuk di halaman statis
+
+v.2.2 (01 April 2018)
+- Menghilangkan iklan di tengah artikel pada halaman statis
+- Perbaikan teks submenu yang menumpuk jika teks submenu terlalu panjang
+- Perbaikan header kurang rapi ketika muncul iklan AdSense page-level di bagian atas
+
+v.2.3 (18 April 2018)
+- Perbaikan Error Data Struktur di halaman statis
+- Perbaikan Menu Navigasi tidak bisa ditutup di layar ukuran 800px
+- Perbaikan desain 
+
+v.2.4 (01 Mei 2018)
+- Perubahan desain: Judul blog rata tengah di layar mobile
+- Perubahan desain: Warna background header dan menu navigasi menggunakan gradient
+- Perubahan desain: Widget Popular post, label, daftar link, dll.
+- Penambahan fitur widget artikel terbaru / recent posts
